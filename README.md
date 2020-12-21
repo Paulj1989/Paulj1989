@@ -1,94 +1,82 @@
+### Hi, nerds 👋
 
-<a href="https://github.com/paulj1989" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/paul_johnson89" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/paulj1989" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-
-I am a social scientist who is transitioning out of academia, to pursue a career in data science and research. By combining my formal education in statistics and quantitative methods with a passion for coding and computing, I have developed into a well-rounded researcher that can apply their skills to a variety of fields throughout business and science.
-
+<div style="text-align:center">
+<img src="https://img.icons8.com/color/96/000000/github-2.png"/>
+  <br><br>
+  <samp>
+I'm Paul. A social scientist from the UK transitioning out of academia to pursue a career in data science and research.
+</br></br>
 As a political scientist, my research interests are centered around party and party system change, particularly the development of new political parties in established systems. However, I am broadly interested in applying machine learning techniques to modeling human behavior. Outside of social science, I am passionate about a variety of topics, one of which is sports analytics.
+</br></br>
+My skill set combines a formal education in statistics and quantitative methods and a passion for coding and computing. I am comfortable using a variety of machine learning tools, and my specialty lies in causal inference, NLP, and predictive modeling. However, I continue to be enthusiastic about developing my existing skills and expanding my knowledge of the field.
 
-I am comfortable using a variety of quantitative methods and tools, and my specialty lies in causal inference, NLP, and predictive modeling. However, I continue to be enthusiastic about developing my skill set, and am always looking to expand my knowledge of the field.
+<samp>
+<br><br>
+<a href="mailto:paul@paulrjohnson.net">Email</a> | <a href="https://www.linkedin.com/in/paulj1989/">Linkedin</a> | <a href="https://twitter.com/paul_johnson89">Twitter</a> | <a href="https://paulrjohnson.net">Website</a>
 
-
-<br/>
-
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [analyzing Bulgarian Constitutional Court decisions using NLP techniques](https://github.com/paulj1989/bulgarian-constitutional-court-decisions) and [developing probabilistic metrics for evaluating volleyball](https://github.com/paulj1989/volleyball-analytics)
-
-
-- 🌱 I’m currently learning AWS, Tensorflow, & MLOps
-
-
-- ❓ Ask me about anything related to new political parties, party nationalization, and football analytics
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Paulj1989/paulj1989.github.io/master/img/presentation2.jpg" align="center" style="width: 100%" />
 </div>
-
-
-</td></tr></table>
-
 <br/>
 
+<div style="text-align:center"><samp>
 
-## Languages and Tools
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" />
+## Languages & Tools
+
+[<code><img style="margin: 8px" alt="python" width="36px" src="https://img.icons8.com/color/36/000000/python.png">
+</code>](https://www.python.org/)
+[<code><img style="margin: 8px" alt="r" width="36px" src="https://profilinator.rishav.dev/skills-assets/r.svg">
+</code>](https://rstudio.com/)
+[<code>
+<img style="margin: 8px" alt="javascript" width="36px" src="https://img.icons8.com/color/36/000000/javascript.png" />
+</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<code><img style="margin: 8px" alt="html" width="36px" src="https://img.icons8.com/color/36/000000/html-5.png">
+</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+
+</br>
+
+[<code><img style="margin: 8px" alt="markdown" width="36px" src="https://img.icons8.com/color/36/000000/markdown.png"/>
+</code>](https://www.markdownguide.org/)
+[<code>
+<img style="margin: 8px" alt="bash" width="36px" src="https://img.icons8.com/plasticine/36/000000/bash.png"></code>](https://www.gnu.org/software/bash/)
+[<code><img style="margin: 8px" alt="tensorflow" width="36px" src="https://img.icons8.com/color/36/000000/git.png"></code>](https://git-scm.com/)
+[<code><img style="margin: 8px" alt="aws" width="36px" src="https://img.icons8.com/color/36/000000/amazon-web-services.png"></code>](https://aws.amazon.com)
+[<code><img style="margin: 8px" alt="docker" width="36px"  src="https://img.icons8.com/color/36/000000/docker.png">
+</code>](https://www.docker.com/)
+[<code>
+<img style="margin: 8px" alt="sql" width="36px" src="https://img.icons8.com/color/36/000000/postgreesql.png"></code>](https://www.postgresql.org/)
+[<code><img style="margin: 8px" alt="tensorflow" width="36px"  src="https://img.icons8.com/color/36/000000/tensorflow.png">
+</code>](https://www.tensorflow.org)
+[<code><img style="margin: 8px" alt="keras" width="30px" src="https://logz.io/wp-content/uploads/2017/11/Keras.png"></code>](https://keras.io/)
+
+<br/>
+and many more...
+
 </div>
-
+</samp>
+<br/>
 <br/>
 
+<samp>
+<div style="text-align:center">
 
 ## Github Stats
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=paulj1989&show_icons=true&theme=radical" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulj1989&layout=compact&theme=radical" align="left" style="width: 100%" />
-
-</td></tr></table>
-
-<br/>
-
-
+<a href="https://github.com/paulj1989">
+  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api?username=paulj1989&show_icons=true&bg_color=00000000&theme=vue-dark&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/paulj1989">
+  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api/top-langs/?username=Paulj1989&bg_color=00000000&theme=vue-dark&hide_border=true&layout=compact" />
+</a>
+</div>
+</samp>
 
 <br/>
-
-
-
+<br/>
+<br/>
 <br/>
 
-
-
-<br/>
-
-
-<br />
+<samp>
 
 ----
-<div align="center">Inspired by <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Built with help, inspiration, and code from <a href="https://github.com/themlphdstudent/awesome-github-profile-readme-templates">themlphdstudent's GitHub Profile README templates</a>, <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> and <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Github Readme Stats</a></div>
+</samp>
