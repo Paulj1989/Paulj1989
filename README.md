@@ -24,10 +24,10 @@ My skill set combines a formal education in statistics and quantitative methods 
 ## Github Stats
 
 <a href="https://github.com/paulj1989">
-  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api?username=paulj1989&show_icons=true&theme=gotham&bg_color=00000000&hide_border=true&count_private=true" />
+  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api?username=paulj1989&bg_color=00000000&text_color=89A3C4&hide_border=true&show_icons=false&count_private=true" />
 </a>
 <a href="https://github.com/paulj1989">
-  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api/top-langs/?username=Paulj1989&&theme=gotham&bg_color=00000000&hide_border=true&height=10px&layout=compact" />
+  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api/top-langs/?username=Paulj1989&bg_color=00000000&hide_border=true&text_color=89A3C4&layout=compact" />
 </a>
 </div>
 </samp>
